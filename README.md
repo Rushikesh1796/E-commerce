@@ -1,4 +1,4 @@
-#Rushikesh1796E-commerce
+#Rushikesh1796.E-commerce
 E-commerce website using Django
 
 ![w1](https://user-images.githubusercontent.com/77450487/112295709-2bb4b180-8cba-11eb-8326-68e5bc6dcf1a.jpg)
